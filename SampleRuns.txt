@@ -1,0 +1,43 @@
+Enter M(X): 10001010110111110011111111000110010100
+Enter G(X): 11000101
+Your M'(X) is:  100010101101111100111111110001100101000000000
+Your P(X) is:   100010101101111100111111110001100101001000100
+Remainder of P(X)/G(X): 0000000
+Error Detected:  False
+Introducing random errors to P(X)...
+P(X) with Errors:  000010101101111100101111110001100101001000101
+Remainder of P(X)/G(X):  0001110
+Error Detected:  True
+
+Process finished with exit code 0
+
+----------------------------------------------------------------
+
+Enter M(X): 00101010101010110111101010101010010101010
+Enter G(X): 0100001111010110
+Your M'(X) is:  00101010101010110111101010101010010101010000000000000000
+Your P(X) is:   00101010101010110111101010101010010101010101011011101100
+Remainder of P(X)/G(X): 000000000000000
+Error Detected:  False
+Introducing random errors to P(X)...
+P(X) with Errors:  00101010101010110111101010101010110101010101111010101100
+Remainder of P(X)/G(X):  101101000000110
+Error Detected:  True
+
+Process finished with exit code 0
+
+---------------------------------------------------------------
+
+Enter M(X): 1011111010111110010101
+Enter G(X): 1001011
+Your M'(X) is:  1011111010111110010101000000
+Your P(X) is:   1011111010111110010101011111
+Remainder of P(X)/G(X): 000000
+Error Detected:  False
+Introducing random errors to P(X)...
+P(X) with Errors:  1011111110111010011101011111
+Remainder of P(X)/G(X):  011001
+Error Detected:  True
+
+Process finished with exit code 0
+
